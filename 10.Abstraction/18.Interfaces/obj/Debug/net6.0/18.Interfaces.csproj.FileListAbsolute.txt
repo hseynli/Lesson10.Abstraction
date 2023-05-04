@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\bin\Debug\net6.0\18.Interfaces.exe
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\bin\Debug\net6.0\18.Interfaces.deps.json
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\bin\Debug\net6.0\18.Interfaces.runtimeconfig.json
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\bin\Debug\net6.0\18.Interfaces.dll
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\bin\Debug\net6.0\18.Interfaces.pdb
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\obj\Debug\net6.0\18.Interfaces.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\obj\Debug\net6.0\18.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\obj\Debug\net6.0\18.Interfaces.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\obj\Debug\net6.0\18.Interfaces.AssemblyInfo.cs
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\obj\Debug\net6.0\18.Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\obj\Debug\net6.0\18.Interfaces.dll
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\obj\Debug\net6.0\refint\18.Interfaces.dll
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\obj\Debug\net6.0\18.Interfaces.pdb
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\obj\Debug\net6.0\18.Interfaces.genruntimeconfig.cache
+D:\Projects\VS Projects\10.Abstraction\18.Interfaces\obj\Debug\net6.0\ref\18.Interfaces.dll

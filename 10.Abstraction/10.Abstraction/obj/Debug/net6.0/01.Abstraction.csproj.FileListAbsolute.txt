@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\bin\Debug\net6.0\01.Abstraction.exe
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\bin\Debug\net6.0\01.Abstraction.deps.json
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\bin\Debug\net6.0\01.Abstraction.runtimeconfig.json
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\bin\Debug\net6.0\01.Abstraction.dll
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\bin\Debug\net6.0\01.Abstraction.pdb
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\obj\Debug\net6.0\01.Abstraction.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\obj\Debug\net6.0\01.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\obj\Debug\net6.0\01.Abstraction.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\obj\Debug\net6.0\01.Abstraction.AssemblyInfo.cs
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\obj\Debug\net6.0\01.Abstraction.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\obj\Debug\net6.0\01.Abstraction.dll
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\obj\Debug\net6.0\refint\01.Abstraction.dll
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\obj\Debug\net6.0\01.Abstraction.pdb
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\obj\Debug\net6.0\01.Abstraction.genruntimeconfig.cache
+D:\Projects\VS Projects\10.Abstraction\10.Abstraction\obj\Debug\net6.0\ref\01.Abstraction.dll
